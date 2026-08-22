@@ -6,7 +6,7 @@ A pesquisa original compara a agenda de controle concentrado de constitucionalid
 
 ## Sobre a coleção
 
-A coleção adapta essa pesquisa em três livros, cada um cobrindo um recorte temporal distinto, todos seguindo o mesmo critério de seleção (ações de controle concentrado distribuídas no período, restritas à esfera federal, depois filtradas por pertinência temática a direitos de cidadania):
+A coleção adapta essa pesquisa em três livros, todos seguindo o mesmo critério de seleção de ações (controle concentrado distribuído no período, restrito à esfera federal, depois filtrado por pertinência temática a direitos de cidadania):
 
 | Volume | Recorte temporal | Status |
 |---|---|---|
