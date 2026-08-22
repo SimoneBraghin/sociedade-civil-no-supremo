@@ -11,9 +11,9 @@ A coleção adapta essa pesquisa em quatro livros, todos seguindo o mesmo crité
 | Volume | Título | Recorte temporal | Status |
 |---|---|---|---|
 | Livro 1 | *Sociedade Civil no Supremo* | Ações distribuídas em 2003–2006 (pesquisa original) | Em produção |
-| Livro 2 | Ações distribuídas em 2007–2026 | Planejado |
-| Livro 3 | 05/10/1988 (promulgação da CF/88) a 31/12/2002 — período ainda não coberto por nenhum volume anterior | Planejado |
-| Livro 4 | Síntese integrada de todo o período democrático, 1988 a 2028 (ações distribuídas até 31/12/2027), somando os bancos de dados dos Livros 1, 2 e 3 — publicação prevista para outubro de 2028, marcando os 40 anos da CF/88 | Planejado |
+| Livro 2 | Indefinido | Ações distribuídas em 2007–2026 | Planejado |
+| Livro 3 | Indefinido | 05/10/1988 (promulgação da CF/88) a 31/12/2002 — período ainda não coberto por nenhum volume anterior | Planejado |
+| Livro 4 | Indefinido | Síntese integrada de todo o período democrático, 1988 a 2028 (ações distribuídas até 31/12/2027), somando os bancos de dados dos Livros 1, 2 e 3 — publicação prevista para outubro de 2028, marcando os 40 anos da CF/88 | Planejado |
 
 *Nota: a divisão entre Livro 3 e Livro 4 é provisória — o projeto originalmente previa um único "Livro 3" em duas partes (dados inéditos de 1988-2002 + síntese integrada) e essa divisão em dois volumes separados ainda está sob avaliação.*
 
