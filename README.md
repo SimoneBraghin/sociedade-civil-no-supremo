@@ -1,2 +1,35 @@
-# sociedade-civil-no-supremo
-Banco de dados da coleção de livros "Sociedade Civil no Supremo"
+# Sociedade Civil no Supremo
+
+Repositório de dados que sustenta a coleção de livros **"Sociedade Civil no Supremo"**, de Simone Braghin — uma adaptação, para o público geral, da pesquisa de mestrado *"Sociedade Civil no Supremo: avanço de uma agenda de direitos?"* (Programa de Pós-Graduação em Sociologia, UFSCar, 2017, orientação de Fabiana Luci de Oliveira).
+
+A pesquisa original compara a agenda de controle concentrado de constitucionalidade do Supremo Tribunal Federal com a produção legislativa federal, no recorte de "direitos de cidadania", buscando entender quem aciona o STF nesse tema, com que objetivo, e como a Corte responde.
+
+## Sobre a coleção
+
+A coleção adapta essa pesquisa em três livros, cada um cobrindo um recorte temporal distinto, todos seguindo o mesmo critério de seleção (ações de controle concentrado distribuídas no período, restritas à esfera federal, depois filtradas por pertinência temática a direitos de cidadania):
+
+| Volume | Recorte temporal | Status |
+|---|---|---|
+| Livro 1 — *Sociedade Civil no Supremo* | 2003–2006 (pesquisa original) | Em produção |
+| Livro 2 | 2016–2026 | Planejado |
+| Livro 3 | 1988–2003 | Planejado |
+
+## Estrutura do repositório
+
+- `Pesquisa original - publicada em 2016.pdf` — a dissertação de mestrado completa, na versão defendida e publicada em 2017.
+- `/livro-1`, `/livro-2`, `/livro-3` *(a adicionar)* — bancos de dados revistos e ampliados que sustentam cada volume, incluindo as variáveis de codificação (tema, temática, assunto em questão, sentido da petição, requerente, resultado de mérito, tempo de tramitação, entre outras).
+
+## Como citar
+
+Para citar a pesquisa original:
+
+> BRAGHIN, Simone. *Sociedade Civil no Supremo: avanço de uma agenda de direitos?* Dissertação (Mestrado em Sociologia) — Universidade Federal de São Carlos, São Carlos, 2017. (https://repositorio.ufscar.br/handle/20.500.14289/10877)
+
+
+## Licença
+
+*A definir.*
+
+## Contato
+
+Simone Braghin — *simone@estudante.ufscar.br*
