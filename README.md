@@ -23,7 +23,7 @@ A coleção adapta essa pesquisa em três livros, cada um cobrindo um recorte te
 
 Para citar a pesquisa original:
 
-> BRAGHIN, Simone. *Sociedade Civil no Supremo: avanço de uma agenda de direitos?* Dissertação (Mestrado em Sociologia) — Universidade Federal de São Carlos, São Carlos, 2017. (https://repositorio.ufscar.br/handle/20.500.14289/10877)
+> BRAGHIN, Simone. *Sociedade Civil no Supremo: avanço de uma agenda de direitos?* Dissertação (Mestrado em Sociologia) — Universidade Federal de São Carlos, São Carlos, 2017. (https://repositorio.ufscar.br/items/d8cab930-6bc0-4c32-a819-bb76ef0e7c70)
 
 
 ## Licença
