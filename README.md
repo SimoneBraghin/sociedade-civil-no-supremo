@@ -19,8 +19,8 @@ A coleção adapta essa pesquisa em quatro livros, todos seguindo o mesmo crité
 
 ## Estrutura do repositório
 
-- `Pesquisa original - publicada em 2016.pdf` — a dissertação de mestrado completa, na versão defendida e publicada em 2017.
-- `/livro-1`, `/livro-2`, `/livro-3`, `/livro-4` *(a adicionar)* — bancos de dados revistos e ampliados que sustentam cada volume, incluindo as variáveis de codificação (tema, temática, assunto em questão, sentido da petição, requerente, resultado de mérito, tempo de tramitação, entre outras).
+- `/Pesquisa-original` — a dissertação de mestrado completa, na versão defendida e publicada em 2017.
+- `/livro-1`, `/livro-2`, `/livro-3`, `/livro-4` — bancos de dados revistos e ampliados que sustentam cada volume, incluindo as variáveis de codificação (tema, temática, assunto em questão, sentido da petição, requerente, resultado de mérito, tempo de tramitação, entre outras).
 
 ## Como citar
 
