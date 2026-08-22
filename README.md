@@ -12,7 +12,10 @@ A coleção adapta essa pesquisa em três livros, cada um cobrindo um recorte te
 |---|---|---|
 | Livro 1 — *Sociedade Civil no Supremo* | 2003–2006 (pesquisa original) | Em produção |
 | Livro 2 | 2016–2026 | Planejado |
-| Livro 3 | 1988–2003 | Planejado |
+| Livro 3 | 1988–2026 (possivelmente 2028, para fechar 40 anos da Constituição) | Planejado |
+
+O Livro 3 não é um recorte isolado: é uma síntese de todo o período democrático desde 1988, somando o universo de dados dos três livros para testar se os padrões observados nos Livros 1 e 2 se confirmam quando analisados no panorama histórico completo — inclusive cobrindo, pela primeira vez, o período 1988-2002, ainda não analisado por nenhum dos volumes anteriores.
+
 
 ## Estrutura do repositório
 
